@@ -1,4 +1,4 @@
 build/*
 *.exe
 *.exe.stackdump
-code
+codes/*
